@@ -12,5 +12,3 @@ hist(df$waiting)
 
 # scatterplot
 plot(df)
-
-
